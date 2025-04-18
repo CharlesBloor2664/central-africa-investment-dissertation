@@ -6,8 +6,8 @@ This repository contains Python scripts and processed data used in an undergradu
 - `Diss_hy2.py`: GDP correlation and regression
 - `Diss_hy3.py`: Trade dependency evaluation
 - `Diss_hy4.py`: Investment-for-resource narrative testing
-- `filter_dataset.py`: Filters raw Africa-wide data to ECCAS countries
-- `merge_exports.py`, `merge_trade_gdp.py`: Merge and preprocess trade and GDP datasets
+- `Diss_filter`: Filters raw Africa-wide data to ECCAS countries
+- `Diss_merge_workingcode`: Merge and preprocess trade and GDP datasets
 
 ## Tools
 - Python 3.10
@@ -17,4 +17,4 @@ This repository contains Python scripts and processed data used in an undergradu
 This repository is private and accessible only to supervisors and examiners. For access, contact the author.
 
 ## Author
-[Your Name] – University of Bath (2025)
+[Charles Bloor] – University of Bath (2025)
