@@ -13,8 +13,5 @@ This repository contains Python scripts and processed data used in an undergradu
 - Python 3.10
 - Libraries: pandas, numpy, scipy, seaborn, matplotlib, statsmodels
 
-## Access
-This repository is private and accessible only to supervisors and examiners. For access, contact the author.
-
 ## Author
 [Charles Bloor] – University of Bath (2025)
